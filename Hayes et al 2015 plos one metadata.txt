@@ -1,0 +1,33 @@
+Metadata for Hayes et al  "Seasonally-Dynamic Presence-Only Species Distribution Models for a Cryptic Migratory Bat Impacted by Wind Energy Development". 
+
+Revised by Mark A. Hayes, June 22, 2017. 
+
+The csv "Hayes et al 2015 plos one data .csv" contains the following information, which is described  in the methods section:
+
+Column A, "species": The species. All items are hoary bats, Lasiurus cinerius.
+Column B, "lat_original": The original estimated latitude of the location in dedimal degree, expressed to 3 decimal places.  
+Column C, "lon_original": The original estimated longitude of the location in dedimal degree, expressed to 3 decimal places. 
+Column D, "error_original": The original estimated error in km.
+Column E, "date": The date the occurrence was documented, in the format MM/DD/YYYY.
+Column F, "year": The year the occurrence was documented, in the format YYYY.
+Column G, "month": The month the occurrence was documented, in the format MM.
+Column H, "day": The day the occurrence was documented, in the format DD. 
+Column I, "sex": The sex of the individual documented, with F = female and M = male. 
+Column J, "lat_higher_res": The higher resolution estimated latitude of the location in dedimal degree, expressed to 3 decimal places.
+Column K, "lon_higher_res": The higher resolution estimated longitude of the location in dedimal degree, expressed to 3 decimal places.  
+Column M, "error_higher_res": The estimated error in km using the higher resolution estimates for latitude and longitude.
+
+This analysis should be independently reproducible following the methods section of the manuscript, and using the higher resolution occurrence
+locations for hoary bats. Due to its large size, the tif used the the template in this analysis has not been uploaded here. This is the North American modeling template used for the analysis. 
+Characteristics of the template are described in the methods. 
+See the manuscript text for full descriptions of compiliation and vetting of hoary bat data, selection of predictor variables, and 
+final analysis. The full set of VisTrails-SAHM files, including the template, and associated files and data considered and used in this analysis can be obtained 
+from Mark Hayes (hayes.a.mark@gmail.com). 
+
+Information about the VisTrails-SAHM software used can be obtained here: 
+
+https://www.fort.usgs.gov/sites/default/files/RAM/SAHM.html
+
+The VisTrails-SAHM software can be accessed and downloaded free of charge at the USGS's ScienceBase Catalog here:
+
+https://www.sciencebase.gov/catalog/item/55e9d780e4b0dacf699e798a
