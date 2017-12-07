@@ -2,9 +2,9 @@ Metadata for Hayes et al  "Seasonally-Dynamic Presence-Only Species Distribution
 
 Revised by Mark A. Hayes, June 22, 2017. 
 
-The csv "Hayes et al 2015 plos one data .csv" contains the following information, which is described  in the methods section:
+The csv "Hayes et al 2015 plos one data .csv" contains the following information, which is described in the methods section:
 
-Column A, "species": The species. All items are hoary bats, Lasiurus cinerius.
+Column A, "species": The species. All items are hoary bats, Lasiurus cinereus.
 Column B, "lat_original": The original estimated latitude of the location in dedimal degree, expressed to 3 decimal places.  
 Column C, "lon_original": The original estimated longitude of the location in dedimal degree, expressed to 3 decimal places. 
 Column D, "error_original": The original estimated error in km.
